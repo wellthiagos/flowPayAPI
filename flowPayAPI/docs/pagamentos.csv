@@ -1,0 +1,9 @@
+data_vencimento,data_pagamento,descricao,situacao,valor
+2024-01-31,2024-02-05,Luz,RECEBIDO,100
+2024-02-01,2024-02-06,Agua,RECEBIDO,300
+2024-02-02,2024-02-07,Financiamento,RECEBIDO,400
+2024-02-03,,Estacionamento,PENDENTE,20
+2024-02-04,,Lanche,PENDENTE,30
+2024-02-05,2024-02-05,Café,RECEBIDO,40
+2024-02-06,,Refigerante,PENDENTE,11
+2024-02-07,,Cerveja,PENDENTE,20

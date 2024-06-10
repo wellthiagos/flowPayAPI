@@ -1,0 +1,2 @@
+INSERT INTO TB_USUARIO (id, login, password, role) VALUES (gen_random_uuid(), 'admin', '$2a$10$vnzzkuOg/SbHZF/xCU/hGeJ/bEffLP/5Y3azqFWmpk0AdjwSss65O', 'ROLE_ADMIN');
+INSERT INTO TB_USUARIO (id, login, password, role) VALUES (gen_random_uuid(), 'user', '$2a$10$/hjG9V33u6DqvyJdwox93eD8F4Mc0xqgZdzL.RmX0XHCrFOz4n4hW', 'ROLE_USER');
