@@ -10,3 +10,5 @@ Tecnologias aplicadas:
 3. Spring JPA
 4. Spring Validation
 5. H2 Database for Tests
+
+Login/Senha: admin/admin
